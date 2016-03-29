@@ -1,0 +1,8 @@
+## Interface: 10900
+## Title: ExpandAssist |cFFFF8080-Shino-|r
+## Title-deDE: ExpandAssist |cFFFF8080-Shino-|r
+## Notes: Simple addon to expand the functions that an assist can do in a raid.
+## Notes-deDE: [TO BE EDITED]
+## Author: Shino <Synced> - Kronos
+
+ExpandAssist.lua
